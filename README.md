@@ -28,6 +28,7 @@
   - var / let / const ✔️
   - Math operators ✔️
   - Data types ✔️
+  - Type conversion ✔️
   - Functions ✔️
   - Arrow Functions ✔️
   - IFFE ✔️
@@ -36,3 +37,21 @@
   - Scope ✔️
   - this keyword ✔️
   - Template literals ✔️
+  - DOM Manipulation ✔️
+  - Handling events ✔️
+
+* **Intermediate Javscript**
+  - **ES6 / ES7+** ✔️
+    - Destructuring ✔️
+    - for of / for in ✔️
+    - Array.from() Array.of() ✔️
+    - Spread and Rest operators ✔️
+    - Promises ✔️
+    - Sets ✔️
+    - Map ✔️
+    - Async/Await ✔️
+    - Symbols 🚧
+    - Classes 🚧
+    - Generators 🚧
+    - Proxies 🚧
+  - Stuff
