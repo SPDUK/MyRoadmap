@@ -12,25 +12,26 @@
 
 ### Front End Basics
 
-* **HTML**
+- **HTML**
     - Seo ✔️
     - Accessibility ✔️ 
-  
-  
-* **CSS**
-    - Responsive / Mobile First design ✔️
-    - Flexbox ✔️
-    - CSS Grid ✔️
-    - Transitions ✔️
-    - Animations ✔️
-    - Sass ✔️
-    - **Frameworks**
-        - Bootstrap ✔️
-        - Bulma ✔️
-        - Material UI
 
 
-- **Javscript Fundamentals**
+- **CSS**
+  - Responsive / Mobile First design ✔️
+  - Flexbox ✔️
+  - CSS Grid ✔️
+  - Transitions ✔️
+  - Animations ✔️
+  - Sass ✔️
+  - **Frameworks**
+    - Bootstrap ✔️
+    - Bulma ✔️
+    - Material UI
+
+
+
+* **Javscript Fundamentals**
   - var / let / const ✔️
   - Math operators ✔️
   - Data types ✔️
@@ -48,7 +49,7 @@
   - Scheduling: setTimeout and setInterval ✔️
   - Ajax and Fetch API ✔️
   
-   
+  
 - **Extras**
   - Git and Github ✔️
   - HTTP/HTTPS and APIs ✔️
