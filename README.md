@@ -51,11 +51,9 @@
   - Webpack ✔️
   - ESlint ✔️
   - Static webpage hosting ✔️
-
-
-
-
-
+  
+  
+#
 
 
 ### Intermediate Front-End 
