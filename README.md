@@ -12,7 +12,7 @@
   - Seo ✔️
   - Accessibility ✔️
 
-* **CSS**
+- **CSS**
   - Responsive / Mobile First design ✔️
   - Flexbox ✔️
   - CSS Grid ✔️
@@ -32,7 +32,7 @@
   - Functions ✔️
   - Arrow Functions ✔️
   - IFFE ✔️
-  - Loops ✔️
+  - For Loops ✔️
   - The switch statement ✔️
   - Scope ✔️
   - this keyword ✔️
@@ -40,7 +40,7 @@
   - DOM Manipulation ✔️
   - Handling events ✔️  
   - Scheduling: setTimeout and setInterval ✔️
-  - Ajax and Fetch ✔️
+  - Ajax and Fetch API ✔️
   
 - **Extras**
   - Git and Github ✔️
@@ -48,27 +48,48 @@
   - SSH ✔️
   - Terminal usage and basic Linux commands ✔️
   - NPM Scripts and Gulp ✔️
+  - Webpack ✔️
   - ESlint ✔️
   - Static webpage hosting ✔️
 ___
 ### Intermediate Front-End 
-- **Javscript**
-  - **ES6 / ES7+** ✔️
-    - Destructuring  ✔️
-    - for of / for in ✔️
-    - Array.from() Array.of() ✔️
-    - Spread and Rest operators ✔️
-    - Promises ✔️
-    - Sets ✔️
-    - Map ✔️
-    - Async/Await ✔️
-    - Symbols 🚧 
-    - Generators 🚧 
-    - Decorators 🚧
-    - Proxies 🚧 
+- **HTML**
+  - Canvas
+  
+- **CSS**
+  - SVG
+  - **Charts
+  - D3
+  - **Animations**
+    - [Keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+    - [Anime.js](http://animejs.com/)
+    - [Greensock](https://greensock.com/)
+  - **Sass**
+    - Variables
+    - Nesting
+    - Partials
+    - Import
+    - Mixins
+    - Inheritance
+    - Operators 
+
+- **Advanced Javscript and ES6/ES7+**
+  - Destructuring  ✔️
+  - for of / for in ✔️
+  - Array.from() Array.of() ✔️
+  - Spread and Rest operators ✔️
+  - Promises ✔️
+  - Sets ✔️
+  - Async/Await ✔️
+  - Symbols 🚧 
+  - Generators 🚧 
+  - Decorators 🚧
+  - Proxies 🚧 
+  - forEach, Filter, Map and Reduce  🚧
+  - [Maps](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) 🚧 
     
     
-  - **Functional Programming** 
+  - **Functional Programming**
     - [Ramda](https://ramdajs.com/)
     - [Closure](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
     - Higher-Order Functions
@@ -89,8 +110,25 @@ ___
     - Property getters and setters
     - Function binding
   - **React**
-    - React item 1
-    - React item 2
-  - **Extras**
-    - Extra item here
+    - JSX  ✔️
+    - Props ✔️
+    - State ✔️
+    - Virtual DOM ✔️
+    - Component Lifecycle Methods ✔️
+    - React Router ✔️
+    - **Basic state management**
+      - MobX 🚧
+      - Redux 💡 
+
+    
+ ___
+ ### Advanced Front-end
  
+ - **React**
+   - **Advanced state management**
+     - State Architecture Patterns 💡
+     - Redux Thunk 💡
+     - Redux Saga 💡
+     - Flux 💡
+
+    
