@@ -66,14 +66,16 @@
 
 ### Intermediate Front-End 
 
-- **HTML**
-  - Canvas
-  - WebGL
-  - **Charts and Graphs**
-    - [Chart.js](https://www.chartjs.org/)
-    - [Chartist](https://gionkunz.github.io/chartist-js/)
+* **HTML**
+     - Canvas
+    - WebGL
+    - **Charts and Graphs**
+      - [Chart.js](https://www.chartjs.org/)
+      - [Chartist](https://gionkunz.github.io/chartist-js/)
     
-    
+ 
+ 
+ 
 - **CSS**
   - SVG
   - D3
@@ -92,20 +94,22 @@
 
 
 
-- **Advanced Javscript and ES6/ES7+**
-  - Destructuring  ✔️
-  - for of / for in ✔️
-  - Array.from() Array.of() ✔️
-  - Spread and Rest operators ✔️
-  - Promises ✔️
-  - Sets ✔️
-  - Async/Await ✔️
-  - Symbols 🚧 
-  - Generators 🚧 
-  - Decorators 🚧
-  - Proxies 🚧 
-  - forEach, Filter, Map and Reduce  🚧
-  - [Maps](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) 🚧 
+
+
+  * **Advanced Javscript and ES6/ES7+**
+    - Destructuring  ✔️
+    - for of / for in ✔️
+    - Array.from() Array.of() ✔️
+    - Spread and Rest operators ✔️
+    - Promises ✔️
+    - Sets ✔️
+    - Async/Await ✔️
+    - Symbols 🚧 
+    - Generators 🚧 
+    - Decorators 🚧
+    - Proxies 🚧 
+    - forEach, Filter, Map and Reduce  🚧
+    - [Maps](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) 🚧 
    
     
   * **Functional Programming**
