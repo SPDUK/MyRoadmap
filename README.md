@@ -66,6 +66,8 @@ ___
     - Generators 🚧 
     - Decorators 🚧
     - Proxies 🚧 
+    
+    
   - **Functional Programming** 
     - [Ramda](https://ramdajs.com/)
     - [Closure](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
@@ -78,6 +80,8 @@ ___
     - [Functors](https://hackernoon.com/functors-in-javascript-20a647b8f39f)
     - Monads
     -  [Everything else](https://github.com/hemanth/functional-programming-jargon)
+
+
   - **Object Oriented Programming** 
     - [Prototypal inheritance](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
     - [Classes 💡](https://javascript.info/class)
