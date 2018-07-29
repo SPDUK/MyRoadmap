@@ -12,15 +12,15 @@
 ### Front End Basics
 
 - **HTML**
-    - Seo ✔️
-    - Accessibility ✔️ 
+    - [Seo ✔️](https://support.google.com/webmasters/answer/7451184?hl=en)
+    - [Accessibility ✔️](https://www.w3.org/TR/wai-aria-1.1/)
 - **CSS**
-  - Responsive / Mobile First design ✔️
-  - Flexbox ✔️
-  - CSS Grid ✔️
-  - Transitions ✔️
-  - Animations ✔️
-  - Sass ✔️
+  - [Responsive / Mobile First design ✔️](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive/Responsive/responsive_design_building_blocks)
+  - [Flexbox ✔️](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - [CSS Grid ✔️](https://developer.mozilla.org/en-US/docs/Web/CSS/grid)
+  - [Transitions ✔️](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
+  - [Animations ✔️](https://www.w3schools.com/css/css3_animations.asp)
+  - [Sass ✔️](https://sass-lang.com/)
   - **Frameworks**
     - Bootstrap ✔️
     - Bulma ✔️
@@ -121,9 +121,12 @@
   - Virtual DOM ✔️
   - Component Lifecycle Methods ✔️
   - React Router ✔️
+  - **Testing**
+    - [Jest](https://jestjs.io/)
+    - [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
   - **Basic state management**
-    - MobX 🚧
-    - Redux 💡 
+    - [MobX 🚧](https://mobx.js.org/)
+    - [Redux 💡](https://redux.js.org/introduction)
 
     
  #
@@ -144,8 +147,11 @@
    - [Git flow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
    - **Web Performance**
      - CDN
-     - Images 
+     - Image optimization
      - Webpack optimizations
+     - Preloading, Caching
+     - Manging dependencies 
+     - Babel plugins
      - Web Workers and Multithreading
      - [Cloud functions](https://cloud.google.com/functions/)
      - LazyLoading, Parallel Loading
