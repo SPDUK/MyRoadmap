@@ -12,11 +12,13 @@
 
 ### Front End Basics
 
- **HTML**
+* **HTML**
   - Seo ✔️
   - Accessibility ✔️ 
-- **CSS**
-  - Responsive / Mobile First design ✔️
+  
+  
+* **CSS**
+ - Responsive / Mobile First design ✔️
   - Flexbox ✔️
   - CSS Grid ✔️
   - Transitions ✔️
