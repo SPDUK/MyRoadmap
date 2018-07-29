@@ -66,15 +66,14 @@
 
 ### Intermediate Front-End 
 
-
 - **HTML**
   - Canvas
   - WebGL
   - **Charts and Graphs**
     - [Chart.js](https://www.chartjs.org/)
     - [Chartist](https://gionkunz.github.io/chartist-js/)
- 
- 
+    
+    
 - **CSS**
   - SVG
   - D3
@@ -109,7 +108,7 @@
   - [Maps](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) 🚧 
    
     
-  - **Functional Programming**
+  * **Functional Programming**
     - [Ramda](https://ramdajs.com/)
     - [Closure](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
     - Higher-Order Functions
@@ -129,7 +128,7 @@
     - Property flags and descriptors
     - Property getters and setters
     - Function binding
-  - **React**
+  * **React**
     - JSX  ✔️
     - Props ✔️
     - State ✔️
