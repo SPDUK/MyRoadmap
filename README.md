@@ -12,12 +12,10 @@
 
 ### Front End Basics
 
-* **HTML**
+- **HTML**
   - Seo ✔️
   - Accessibility ✔️ 
-
-
-* **CSS**
+- **CSS**
   - Responsive / Mobile First design ✔️
   - Flexbox ✔️
   - CSS Grid ✔️
@@ -30,7 +28,7 @@
     - Material UI
 
 
-* **Javscript Fundamentals**
+- **Javscript Fundamentals**
   - var / let / const ✔️
   - Math operators ✔️
   - Data types ✔️
