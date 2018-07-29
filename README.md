@@ -32,6 +32,7 @@
   - Type conversion ✔️
   - Functions ✔️
   - Arrow Functions ✔️
+  - Callback Functions ✔️
   - IFFE ✔️
   - For Loops ✔️
   - The switch statement ✔️
@@ -94,7 +95,7 @@
   - Proxies 🚧 
   - forEach, Filter, Map and Reduce  🚧
   - [Maps](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) 🚧 
-- **Functional Programming**
+  - **Functional Programming**
   - [Ramda](https://ramdajs.com/)
   - [Closure](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
   - Higher-Order Functions
@@ -112,6 +113,7 @@
   - Property flags and descriptors
   - Property getters and setters
   - Function binding
+  - Constructors
 - **React**
   - JSX  ✔️
   - Props ✔️
@@ -128,11 +130,25 @@
  
  
  ### Advanced Front-end
- 
- - **React**
-   - **Advanced state management**
-     - State Architecture Patterns 💡
-     - Redux Thunk 💡
-     - Redux Saga 💡
-     - Flux 💡
+ - **Javascript**
+   - [Typescript](https://www.typescriptlang.org/)
+   - Rxjs
+   - **React**
+     - **Advanced state management**
+       - State Architecture Patterns 💡
+       - Redux Thunk 💡
+       - Redux Saga 💡
+       - Flux 💡
+ - **Extras** 
+   - [Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)
+   - [Git flow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
+   - **Web Performance**
+     - CDN
+     - Images 
+     - Webpack optimizations
+     - Web Workers and Multithreading
+     - [Cloud functions](https://cloud.google.com/functions/)
+     - LazyLoading, Parallel Loading
+     - [HTTP/2](https://mozilla.github.io/meao/2017/06/26/http2/)
+     - Email templating
 
