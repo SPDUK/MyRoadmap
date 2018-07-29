@@ -1,11 +1,18 @@
 # MyRoadmap
 
+✔️ - Done
+
+🚧 - In progress
+
+💡 - Future plans
+
 ### Front End
 
 - **HTML**
   - Seo ✔️
   - Accessibility ✔️
-- **CSS**
+
+* **CSS**
   - Responsive / Mobile First design ✔️
   - Flexbox ✔️
   - CSS Grid ✔️
@@ -16,15 +23,16 @@
     - Bootstrap ✔️
     - Bulma ✔️
     - Material UI ✔️
-  - **Javscript Fundamentals**
-    - var / let / const ✔️
-    - Math operators ✔️
-    - Data types ✔️
-    - Functions ✔️
-    - Arrow Functions ✔️
-    - IFFE ✔️
-    - Loops ✔️
-    - The switch statement ✔️
-    - Scope ✔️
-    - this keyword ✔️
-    - Template literals ✔️
+
+- **Javscript Fundamentals**
+  - var / let / const ✔️
+  - Math operators ✔️
+  - Data types ✔️
+  - Functions ✔️
+  - Arrow Functions ✔️
+  - IFFE ✔️
+  - Loops ✔️
+  - The switch statement ✔️
+  - Scope ✔️
+  - this keyword ✔️
+  - Template literals ✔️
