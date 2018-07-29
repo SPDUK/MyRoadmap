@@ -12,7 +12,7 @@
 
 ### Front End Basics
 
-- **HTML**
+ **HTML**
   - Seo ✔️
   - Accessibility ✔️ 
 - **CSS**
@@ -46,7 +46,7 @@
   - Scheduling: setTimeout and setInterval ✔️
   - Ajax and Fetch API ✔️
   
-  
+   
 - **Extras**
   - Git and Github ✔️
   - HTTP/HTTPS and APIs ✔️
