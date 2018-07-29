@@ -55,10 +55,13 @@ ___
 ### Intermediate Front-End 
 - **HTML**
   - Canvas
+  - WebGL
+  - **Charts and Graphs**
+    - [Chart.js](https://www.chartjs.org/)
+    - [Chartist](https://gionkunz.github.io/chartist-js/)
   
 - **CSS**
   - SVG
-  - **Charts
   - D3
   - **Animations**
     - [Keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
