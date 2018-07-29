@@ -12,11 +12,9 @@
 
 ### Front End Basics
 
-- **HTML**
+* **HTML**
     - Seo ✔️
     - Accessibility ✔️ 
-
-
 - **CSS**
   - Responsive / Mobile First design ✔️
   - Flexbox ✔️
@@ -62,7 +60,6 @@
 
 
 
-#
 
 
 
