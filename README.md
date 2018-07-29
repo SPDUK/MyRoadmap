@@ -6,13 +6,18 @@
 
 💡 - Future plans
 
+
+#
+
+
 ### Front End Basics
 
-- **HTML**
+* **HTML**
   - Seo ✔️
-  - Accessibility ✔️
+  - Accessibility ✔️ 
 
-- **CSS**
+
+* **CSS**
   - Responsive / Mobile First design ✔️
   - Flexbox ✔️
   - CSS Grid ✔️
@@ -22,9 +27,10 @@
   - **Frameworks**
     - Bootstrap ✔️
     - Bulma ✔️
-    - Material UI ✔️
+    - Material UI
 
-- **Javscript Fundamentals**
+
+* **Javscript Fundamentals**
   - var / let / const ✔️
   - Math operators ✔️
   - Data types ✔️
@@ -42,6 +48,7 @@
   - Scheduling: setTimeout and setInterval ✔️
   - Ajax and Fetch API ✔️
   
+  
 - **Extras**
   - Git and Github ✔️
   - HTTP/HTTPS and APIs ✔️
@@ -51,15 +58,25 @@
   - Webpack ✔️
   - ESlint ✔️
   - Static webpage hosting ✔️
-___
+
+
+
+#
+
+
+
+
 ### Intermediate Front-End 
+
+
 - **HTML**
   - Canvas
   - WebGL
   - **Charts and Graphs**
     - [Chart.js](https://www.chartjs.org/)
     - [Chartist](https://gionkunz.github.io/chartist-js/)
-  
+ 
+ 
 - **CSS**
   - SVG
   - D3
@@ -74,7 +91,9 @@ ___
     - Import
     - Mixins
     - Inheritance
-    - Operators 
+    - Operators
+
+
 
 - **Advanced Javscript and ES6/ES7+**
   - Destructuring  ✔️
@@ -90,7 +109,7 @@ ___
   - Proxies 🚧 
   - forEach, Filter, Map and Reduce  🚧
   - [Maps](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) 🚧 
-    
+   
     
   - **Functional Programming**
     - [Ramda](https://ramdajs.com/)
@@ -124,7 +143,9 @@ ___
       - Redux 💡 
 
     
- ___
+ #
+ 
+ 
  ### Advanced Front-end
  
  - **React**
@@ -134,4 +155,3 @@ ___
      - Redux Saga 💡
      - Flux 💡
 
-    
