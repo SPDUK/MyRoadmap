@@ -6,7 +6,7 @@
 
 💡 - Future plans
 
-### Front End
+### Front End Basics
 
 - **HTML**
   - Seo ✔️
@@ -39,10 +39,20 @@
   - Template literals ✔️
   - DOM Manipulation ✔️
   - Handling events ✔️  
-  - Scheduling: setTimeout and setInterval
-
-
-- **Intermediate Javscript**
+  - Scheduling: setTimeout and setInterval ✔️
+  - Ajax and Fetch ✔️
+  
+- **Extras**
+  - Git and Github ✔️
+  - HTTP/HTTPS and APIs ✔️
+  - SSH ✔️
+  - Terminal usage and basic Linux commands ✔️
+  - NPM Scripts and Gulp ✔️
+  - ESlint ✔️
+  - Static webpage hosting ✔️
+___
+### Intermediate Front-End 
+- **Javscript**
   - **ES6 / ES7+** ✔️
     - Destructuring  ✔️
     - for of / for in ✔️
@@ -54,23 +64,29 @@
     - Async/Await ✔️
     - Symbols 🚧 
     - Generators 🚧 
-    - Decorators
+    - Decorators 🚧
     - Proxies 🚧 
   - **Functional Programming** 
     - [Ramda](https://ramdajs.com/)
     - [Closure](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
     - Higher-Order Functions
-    - Currying and partials
+    - [Currying and partials](https://javascript.info/currying-partials)
     - Composition
     - Purity and Side effects
     - Point-free Style
     - Recursion
     - [Functors](https://hackernoon.com/functors-in-javascript-20a647b8f39f)
     - Monads
-  - **Object Oriented** 
-    - [Classes 🚧](https://javascript.info/class)
+    -  [Everything else](https://github.com/hemanth/functional-programming-jargon)
+  - **Object Oriented Programming** 
+    - [Prototypal inheritance](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+    - [Classes 💡](https://javascript.info/class)
     - Property flags and descriptors
     - Property getters and setters
     - Function binding
-    - [Prototypal inheritance](https://javascript.info/prototype-inheritance)
+  - **React**
+    - React item 1
+    - React item 2
+  - **Extras**
+    - Extra item here
  
