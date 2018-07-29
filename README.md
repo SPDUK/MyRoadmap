@@ -13,21 +13,21 @@
 ### Front End Basics
 
 * **HTML**
-  - Seo ✔️
-  - Accessibility ✔️ 
+    - Seo ✔️
+    - Accessibility ✔️ 
   
   
 * **CSS**
- - Responsive / Mobile First design ✔️
-  - Flexbox ✔️
-  - CSS Grid ✔️
-  - Transitions ✔️
-  - Animations ✔️
-  - Sass ✔️
-  - **Frameworks**
-    - Bootstrap ✔️
-    - Bulma ✔️
-    - Material UI
+    - Responsive / Mobile First design ✔️
+    - Flexbox ✔️
+    - CSS Grid ✔️
+    - Transitions ✔️
+    - Animations ✔️
+    - Sass ✔️
+    - **Frameworks**
+        - Bootstrap ✔️
+        - Bulma ✔️
+        - Material UI
 
 
 - **Javscript Fundamentals**
