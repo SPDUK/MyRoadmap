@@ -58,6 +58,7 @@ Not finished yet.
   - NPM Scripts and Gulp ✔️
   - Webpack ✔️
   - ESlint ✔️
+  - Babel ✔️
   - Static webpage hosting ✔️
   
   
@@ -76,6 +77,7 @@ Not finished yet.
 - **CSS**
   - SVG
   - D3
+  - [Browser Compatibility](https://caniuse.com/)
   - **Animations**
     - [Keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
     - [Lottie](http://airbnb.io/lottie/)
@@ -162,12 +164,13 @@ Not finished yet.
        - Redux Thunk 💡
        - Redux Saga 💡
        - Flux 💡
-- **React Native**
-  - item 1
-  - item 2
+- **Mobile development**
+  - **React Native**
+    - ...
+  - **Flutter**
+    - ...
 - **Electron**
-  - Item 1
-  - Item 2
+  - ...
  - **Extras** 
    - [Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)
    - [Git flow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
