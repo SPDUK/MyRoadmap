@@ -71,14 +71,14 @@ Nothing - Not yet a priority
 
 
 - **HTML**
-  - Canvas ✔️
-  - WebGL
+  - [Canvas ✔️](https://www.youtube.com/watch?v=8ZGAzJ0drl0)
+  - [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial)
   - **Charts and Graphs**
     - [Chart.js](https://www.chartjs.org/)
     - [Chartist ✔️](https://gionkunz.github.io/chartist-js/) 
 - **CSS** 
-  - SVG 🚧 
-  - D3
+  - [SVG 🚧](https://svgontheweb.com/)
+  - [D3](https://d3js.org/)
   - [Browser Compatibility ✔️](https://caniuse.com/)
   - **Animations**
     - [Keyframes ✔️](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
@@ -86,13 +86,13 @@ Nothing - Not yet a priority
     - [Anime.js ✔️](http://animejs.com/)
     - [Greensock](https://greensock.com/)
   - **Sass** 
-    - Variables ✔️
-    - Nesting ✔️
-    - Partials
-    - Import ✔️
-    - Mixins ✔️
-    - Inheritance
-    - Operators ✔️
+    - [Variables ✔️](https://sass-lang.com/guide)
+    - [Nesting ✔️](https://css-tricks.com/the-sass-ampersand/)
+    - [Partials](https://sass-lang.com/guide)
+    - [Import ✔️](https://sass-lang.com/documentation/file.SASS_REFERENCE.html#directives)
+    - [Mixins ✔️](https://sass-lang.com/documentation/file.SASS_REFERENCE.html#mixins)
+    - [Inheritance](https://dev.to/sarah_chima/the-goodness-of-sass-inheritance-5hm)
+    - [Operators ✔️](https://sass-lang.com/guide)
 - **Advanced Javscript and ES6+**
   - Destructuring  ✔️
   - [Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/)
