@@ -32,8 +32,8 @@ Not finished yet.
   - Math operators ✔️
   - [Comparison operators](https://www.w3schools.com/js/js_comparisons.asp)
   - [Conditional operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
-  - Data types ✔️
-  - Type conversion ✔️
+  - Data Types ✔️
+  - Type Conversion ✔️
   - Functions ✔️
   - Arrow Functions ✔️
   - Callback Functions ✔️
@@ -42,10 +42,10 @@ Not finished yet.
   - While loops ✔️
   - The switch statement ✔️
   - Scope ✔️
-  - this keyword ✔️
-  - Template literals ✔️
+  - 'this' Keyword ✔️
+  - Template Literals ✔️
   - DOM Manipulation ✔️
-  - Handling events ✔️  
+  - Handling Events ✔️  
   - Scheduling: setTimeout and setInterval ✔️
   - Ajax and Fetch API ✔️  
   - Slice and Splice ✔️
@@ -54,12 +54,12 @@ Not finished yet.
   - Git and Github ✔️
   - HTTP/HTTPS and APIs ✔️
   - SSH ✔️
-  - Terminal usage and basic Linux commands ✔️
+  - Terminal Usage and Basic Linux Commands ✔️
   - NPM Scripts and Gulp ✔️
   - Webpack ✔️
   - ESlint ✔️
   - Babel ✔️
-  - Static webpage hosting ✔️
+  - Static Webpage Hosting ✔️
   
   
 #
@@ -156,9 +156,10 @@ Not finished yet.
    - [Typescript](https://www.typescriptlang.org/)
    - Rxjs
    - **Advanced React**
-     - Controlled components and Control props
+     - Controlled components and Control Props
      - Component State Reducers
      - Providers
+     - [Advanced React Patterns](https://egghead.io/courses/advanced-react-component-patterns)
      - **Advanced state management**
        - State Architecture Patterns 💡
        - Redux Thunk 💡
@@ -176,16 +177,16 @@ Not finished yet.
    - [Git flow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
    - **Web Performance**
      - CDN
-     - Image optimization
-     - Webpack optimizations
+     - Image Optimization
+     - Webpack Optimizations
      - Preloading, Caching
-     - Manging dependencies 
-     - Babel plugins
+     - Manging Dependencies 
+     - Babel Plugins
      - Web Workers and Multithreading
      - [Cloud functions](https://cloud.google.com/functions/)
      - LazyLoading, Parallel Loading
      - [HTTP/2](https://mozilla.github.io/meao/2017/06/26/http2/)
-     - Email templating
+     - Email Templating
 
 
 
@@ -199,7 +200,7 @@ Not finished yet.
 - **MongoDB**
   - Mongoose
   - Schema Design
-  - **[MongoDB commands](https://docs.mongodb.com/manual/reference/mongo-shell/)**
+  - **[MongoDB Commands](https://docs.mongodb.com/manual/reference/mongo-shell/)**
     - CRUD
     - [Aggregation](https://docs.mongodb.com/manual/aggregation/)
     - [Transactions](https://docs.mongodb.com/master/core/transactions/)
@@ -215,7 +216,7 @@ Not finished yet.
     - Indicies
 - **Authentication**
   - [Passport.js](http://www.passportjs.org/)
-  - [JSON Web tokens](https://www.npmjs.com/package/jsonwebtoken)
+  - [JSON Web Tokens](https://www.npmjs.com/package/jsonwebtoken)
   - [OAuth 2.0](https://oauth.net/2/)
 - **Deployment**
   - Heroku
@@ -223,7 +224,7 @@ Not finished yet.
     - PM2
     - Nginx
     - Domains, DNS and CNAMEs
-    - Log files
+    - Log Files
     - Fail2ban
     - [General security](https://www.digitalocean.com/community/questions/best-practices-for-hardening-new-sever-in-2017)
   
