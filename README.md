@@ -50,18 +50,18 @@ Nothing - Not yet a priority
   - [Handling Events ✔️](https://developer.mozilla.org/en-US/docs/Web/Events)
   - [Scheduling: setTimeout and setInterval ✔️](https://www.youtube.com/watch?v=kOcFZV3c75I)
   - [Ajax and Fetch API ✔️](https://www.youtube.com/watch?v=Oive66jrwBs)
-  - [Slice and Splice ✔️]()
+  - [Slice and Splice ✔️](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
   - [Object.keys and Object.values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
 - **Extras**
-  - Git and Github ✔️
-  - HTTP/HTTPS and APIs ✔️
-  - SSH ✔️
-  - Terminal Usage and Basic Linux Commands ✔️
-  - NPM Scripts and Gulp ✔️
-  - Webpack ✔️
-  - ESlint ✔️
-  - Babel ✔️
-  - Static Webpage Hosting ✔️
+  - [Git and Github ✔️](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+  - [HTTP/HTTPS and APIs ✔️](https://youtu.be/PUPDGbnpSjw)
+  - [SSH ✔️](https://www.youtube.com/watch?v=hQWRp-FdTpc)
+  - [Terminal Usage and Basic Linux Commands ✔️](https://youtu.be/OnSUX2otYos)
+  - [NPM Scripts and Gulp ✔️](https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633)
+  - [Webpack ✔️](https://www.youtube.com/watch?v=lziuNMk_8eQ)
+  - [ESlint ✔️](https://www.youtube.com/watch?v=YIvjKId9m2c)
+  - [Babel ✔️](https://www.youtube.com/watch?v=2Hg25h0v4UM)
+  - [Static Webpage Hosting ✔️](https://www.youtube.com/watch?v=FiOgz3nKpgk)
   
   
 #
