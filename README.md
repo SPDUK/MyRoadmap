@@ -107,7 +107,7 @@ Nothing - Not yet a priority
   - Proxies 🚧 
   - forEach, Filter, Map and Reduce  ✔️
   - [Maps](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) 🚧 
-  - **Functional Programming**
+- **Functional Programming**
   - [Ramda 💡](https://ramdajs.com/)
   - [Closure ✔️](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
   - Higher-Order Functions ✔️
