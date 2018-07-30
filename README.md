@@ -186,8 +186,17 @@ Not finished yet.
 - **Node.js**
     - [Express ✔️](https://expressjs.com/)
     - [Socket.io](https://socket.io/)
+    - Streams
+- **MongoDB**
+  - Mongoose
+  - Schema Design
+  - **[MongoDB commands](https://docs.mongodb.com/manual/reference/mongo-shell/)**
+    - CRUD
+    - [Aggregation](https://docs.mongodb.com/manual/aggregation/)
+    - [Transactions](https://docs.mongodb.com/master/core/transactions/)
 - **SQL**
-  - [Postgres](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
+  - [PostgreSQL](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
+  - [MySQL](https://www.mysql.com/)
   - [Sequelize ORM](http://docs.sequelizejs.com/)
   - **[SQL Commands](https://www.codecademy.com/articles/sql-commands)**
     - CRUD
@@ -196,16 +205,19 @@ Not finished yet.
     - Transactions
     - Migrations
     - Indicies
-- **MongoDB**
-  - Mongoose
-  - Schema Design
-  - **[MongoDB commands](https://docs.mongodb.com/manual/reference/mongo-shell/)**
-    - CRUD
-    - [Aggregation](https://docs.mongodb.com/manual/aggregation/)
-    - [Transactions](https://docs.mongodb.com/master/core/transactions/)
 - **Authentication**
-  - Item 1
-  - Item 2
+  - [Passport.js](http://www.passportjs.org/)
+  - [JSON Web tokens](https://www.npmjs.com/package/jsonwebtoken)
+  - [OAuth 2.0](https://oauth.net/2/)
+- **Deployment**
+  - Heroku
+  - **VPS**
+    - PM2
+    - Nginx
+    - Domains, DNS and CNAMEs
+    - Log files
+    - Fail2ban
+    - [General security](https://www.digitalocean.com/community/questions/best-practices-for-hardening-new-sever-in-2017)
   
   
 #
