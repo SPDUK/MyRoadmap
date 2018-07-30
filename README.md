@@ -94,15 +94,15 @@ Nothing - Not yet a priority
     - [Inheritance](https://dev.to/sarah_chima/the-goodness-of-sass-inheritance-5hm)
     - [Operators ✔️](https://sass-lang.com/guide)
 - **Advanced Javscript and ES6+**
-  - Destructuring  ✔️
+  - [Destructuring  ✔️](https://wesbos.com/destructuring-objects/)
   - [Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/)
-  - for of / for in ✔️
-  - Array.from() Array.of() ✔️
-  - Spread and Rest operators ✔️
-  - Promises ✔️
-  - Sets ✔️
-  - Async/Await ✔️
-  - Symbols 🚧 
+  - [for of / for in ✔️](https://stackoverflow.com/questions/29285897/what-is-the-difference-between-for-in-and-for-of-in-javascript)
+  - [Array.from() Array.of() ✔️](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
+  - [Spread and Rest operators ✔️](https://www.youtube.com/watch?v=iLx4ma8ZqvQ)
+  - [Promises ✔️](https://www.youtube.com/watch?v=2d7s3spWAzo)
+  - [Sets ✔️](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
+  - [Async/Await ✔️](https://www.youtube.com/watch?v=568g8hxJJp4&feature=youtu.be)
+  - Symbols 🚧
   - Generators 🚧 
   - Decorators 🚧
   - Proxies 🚧 
