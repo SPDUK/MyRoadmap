@@ -1,5 +1,7 @@
 # MyRoadmap
 
+Not finished yet.
+
 ✔️ - Done
 
 🚧 - In progress
