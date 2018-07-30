@@ -41,16 +41,16 @@ Nothing - Not yet a priority
   - [Callback Functions ✔️](https://stackoverflow.com/questions/824234/what-is-a-callback-function)
   - [IFFE ✔️](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
   - [For Loops ✔️](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
-  - While loops ✔️
-  - The switch statement ✔️
-  - Scope ✔️
-  - 'this' Keyword ✔️
-  - Template Literals ✔️
-  - DOM Manipulation ✔️
-  - Handling Events ✔️  
-  - Scheduling: setTimeout and setInterval ✔️
-  - Ajax and Fetch API ✔️  
-  - Slice and Splice ✔️
+  - [While loops ✔️](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
+  - [The switch statement ✔️](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
+  - [Scope ✔️](https://www.youtube.com/watch?v=nRZri_CHqnA)
+  - ['this' Keyword ✔️](https://stackoverflow.com/questions/3127429/how-does-the-this-keyword-work)
+  - [Template Literals ✔️](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+  - [DOM Manipulation ✔️](https://www.youtube.com/watch?v=0ik6X4DJKCc)
+  - [Handling Events ✔️](https://developer.mozilla.org/en-US/docs/Web/Events)
+  - [Scheduling: setTimeout and setInterval ✔️](https://www.youtube.com/watch?v=kOcFZV3c75I)
+  - [Ajax and Fetch API ✔️](https://www.youtube.com/watch?v=Oive66jrwBs)
+  - [Slice and Splice ✔️]()
   - [Object.keys and Object.values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
 - **Extras**
   - Git and Github ✔️
