@@ -26,21 +26,21 @@ Nothing - Not yet a priority
   - [Animations ✔️](https://www.w3schools.com/css/css3_animations.asp)
   - [Sass ✔️](https://sass-lang.com/)
   - **Frameworks**
-    - Bootstrap ✔️
-    - Bulma ✔️
-    - Material UI ✔️
+    - [Bootstrap ✔️](https://getbootstrap.com/docs/3.3/getting-started/)
+    - [Bulma ✔️](https://bulma.io/documentation/overview/start/)
+    - [Material UI ✔️](https://material-ui.com/)
 - **Javscript Fundamentals**
-  - var / let / const ✔️
-  - Math operators ✔️
+  - [var / let / const ✔️](https://wesbos.com/let-vs-const/)
+  - [Math operators ✔️](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
   - [Comparison operators ✔️](https://www.w3schools.com/js/js_comparisons.asp)
   - [Conditional operators ✔️](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
-  - Data Types ✔️
-  - Type Conversion ✔️
-  - Functions ✔️
-  - Arrow Functions ✔️
-  - Callback Functions ✔️
-  - IFFE ✔️
-  - For Loops ✔️
+  - [Data Types ✔️](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+  - [Type Conversion ✔️](https://javascript.info/type-conversions)
+  - [Functions ✔️](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function)
+  - [Arrow Functions ✔️](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+  - [Callback Functions ✔️](https://stackoverflow.com/questions/824234/what-is-a-callback-function)
+  - [IFFE ✔️](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
+  - [For Loops ✔️](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
   - While loops ✔️
   - The switch statement ✔️
   - Scope ✔️
