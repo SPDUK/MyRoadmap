@@ -28,6 +28,8 @@
 - **Javscript Fundamentals**
   - var / let / const ✔️
   - Math operators ✔️
+  - [Comparison operators](https://www.w3schools.com/js/js_comparisons.asp)
+  - [Conditional operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
   - Data types ✔️
   - Type conversion ✔️
   - Functions ✔️
@@ -44,6 +46,8 @@
   - Handling events ✔️  
   - Scheduling: setTimeout and setInterval ✔️
   - Ajax and Fetch API ✔️  
+  - Slice and Splice ✔️
+  - [Object.keys and Object.values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
 - **Extras**
   - Git and Github ✔️
   - HTTP/HTTPS and APIs ✔️
@@ -72,6 +76,7 @@
   - D3
   - **Animations**
     - [Keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+    - [Lottie](http://airbnb.io/lottie/)
     - [Anime.js](http://animejs.com/)
     - [Greensock](https://greensock.com/)
   - **Sass**
@@ -82,8 +87,9 @@
     - Mixins
     - Inheritance
     - Operators 
-- **Advanced Javscript and ES6/ES7+**
+- **Advanced Javscript and ES6+**
   - Destructuring  ✔️
+  - [Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/)
   - for of / for in ✔️
   - Array.from() Array.of() ✔️
   - Spread and Rest operators ✔️
@@ -168,3 +174,25 @@
      - [HTTP/2](https://mozilla.github.io/meao/2017/06/26/http2/)
      - Email templating
 
+
+
+#
+
+
+### Back End Basics
+
+- **Node.js**
+    - [Express ✔️](https://expressjs.com/)
+- **SQL**
+  - [SQL Commands](https://www.codecademy.com/articles/sql-commands)
+  - [Postgres](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
+  - [Sequelize ORM](http://docs.sequelizejs.com/)
+- **MongoDB**
+  - Mongoose
+  - [MongoDB commands](https://docs.mongodb.com/manual/reference/mongo-shell/)
+- **Extras**
+  - Item 1
+  - Item 2
+  
+  
+#
