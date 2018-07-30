@@ -35,6 +35,7 @@
   - Callback Functions ✔️
   - IFFE ✔️
   - For Loops ✔️
+  - While loops ✔️
   - The switch statement ✔️
   - Scope ✔️
   - this keyword ✔️
@@ -121,13 +122,19 @@
   - Virtual DOM ✔️
   - Component Lifecycle Methods ✔️
   - React Router ✔️
+  - functional setState
+  - Container and Presentational Components
+  - Functional and Class Components
+  - SyntheticEvent
   - **Testing**
     - [Jest](https://jestjs.io/)
     - [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
   - **Basic state management**
     - [MobX 🚧](https://mobx.js.org/)
     - [Redux 💡](https://redux.js.org/introduction)
-
+- **Extras**
+  - [Preact](https://preactjs.com/)
+  -   
     
  #
  
@@ -136,7 +143,10 @@
  - **Javascript**
    - [Typescript](https://www.typescriptlang.org/)
    - Rxjs
-   - **React**
+   - **Advanced React**
+     - Controlled components and Control props
+     - Component State Reducers
+     - Providers
      - **Advanced state management**
        - State Architecture Patterns 💡
        - Redux Thunk 💡
