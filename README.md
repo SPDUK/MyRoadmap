@@ -130,17 +130,19 @@
   - React Router ✔️
   - functional setState
   - Container and Presentational Components
-  - Functional and Class Components
+  - Functional and Class Component
   - SyntheticEvent
+  - File structure 
   - **Testing**
     - [Jest](https://jestjs.io/)
+    - [Enzyme](http://airbnb.io/enzyme/)
     - [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
   - **Basic state management**
     - [MobX 🚧](https://mobx.js.org/)
     - [Redux 💡](https://redux.js.org/introduction)
 - **Extras**
   - [Preact](https://preactjs.com/)
-  -   
+  - [Firebase](https://firebase.google.com/)
     
  #
  
@@ -177,8 +179,6 @@
 
 
 #
-
-
 ### Back End Basics
 
 - **Node.js**
