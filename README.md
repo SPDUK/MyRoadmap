@@ -2,11 +2,11 @@
 
 Not finished yet.
 
-✔️ - Done
+✔️ - I'm comfortable with this.
 
-🚧 - In progress
+🚧 - Not 100% but working on it.
 
-💡 - Future plans
+💡 - Thinking about it soon.
 
 #
 
@@ -162,6 +162,12 @@ Not finished yet.
        - Redux Thunk 💡
        - Redux Saga 💡
        - Flux 💡
+- **React Native**
+  - item 1
+  - item 2
+- **Electron**
+  - Item 1
+  - Item 2
  - **Extras** 
    - [Technical Debt](https://en.wikipedia.org/wiki/Technical_debt)
    - [Git flow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
@@ -200,8 +206,7 @@ Not finished yet.
   - [Sequelize ORM](http://docs.sequelizejs.com/)
   - **[SQL Commands](https://www.codecademy.com/articles/sql-commands)**
     - CRUD
-    - JOIN
-    - Aggregation
+    - [Aggregation](https://www.w3schools.com/sql/sql_groupby.asp)
     - Transactions
     - Migrations
     - Indicies
