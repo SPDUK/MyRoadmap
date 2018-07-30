@@ -166,7 +166,7 @@ Nothing - Not yet a priority
        - Redux Thunk 💡
        - Redux Saga 💡
        - Flux 💡
-- **Mobile development**
+- **Mobile Development**
   - **React Native**
     - ...
   - **Flutter**
