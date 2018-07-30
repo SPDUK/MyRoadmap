@@ -24,7 +24,6 @@ Nothing - Not yet a priority
   - [CSS Grid ✔️](https://developer.mozilla.org/en-US/docs/Web/CSS/grid)
   - [Transitions ✔️](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
   - [Animations ✔️](https://www.w3schools.com/css/css3_animations.asp)
-  - [Sass ✔️](https://sass-lang.com/)
   - **Frameworks**
     - [Bootstrap ✔️](https://getbootstrap.com/docs/3.3/getting-started/)
     - [Bulma ✔️](https://bulma.io/documentation/overview/start/)
