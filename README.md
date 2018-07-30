@@ -50,7 +50,7 @@ Nothing - Not yet a priority
   - [Scheduling: setTimeout and setInterval ✔️](https://www.youtube.com/watch?v=kOcFZV3c75I)
   - [Ajax and Fetch API ✔️](https://www.youtube.com/watch?v=Oive66jrwBs)
   - [Slice and Splice ✔️](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
-  - [Object.keys and Object.values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
+  - [Object.keys and Object.values ✔️](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
 - **Extras**
   - [Git and Github ✔️](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
   - [HTTP/HTTPS and APIs ✔️](https://youtu.be/PUPDGbnpSjw)
@@ -94,7 +94,7 @@ Nothing - Not yet a priority
     - [Operators ✔️](https://sass-lang.com/guide)
 - **Advanced Javscript and ES6+**
   - [Destructuring  ✔️](https://wesbos.com/destructuring-objects/)
-  - [Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/)
+  - [Data Structures ✔️](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures/)
   - [for of / for in ✔️](https://stackoverflow.com/questions/29285897/what-is-the-difference-between-for-in-and-for-of-in-javascript)
   - [Array.from() Array.of() ✔️](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from)
   - [Spread and Rest operators ✔️](https://www.youtube.com/watch?v=iLx4ma8ZqvQ)
@@ -120,12 +120,12 @@ Nothing - Not yet a priority
   - Monads 🚧
   -  [Everything else](https://github.com/hemanth/functional-programming-jargon)
 - **Object Oriented Programming** 
-  - [Prototypal inheritance 💡](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-  - [Classes ](https://javascript.info/class)
-  - Property flags and descriptors
-  - Property getters and setters
-  - Function binding
-  - Constructors 
+  - [Prototypal Inheritance 💡](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+  - [Classes 💡](https://javascript.info/class)
+  - Property Flags and Descriptors 💡
+  - Property Getters and Setters 💡
+  - Function Binding ✔️
+  - Constructors 🚧
 - **React**
   - JSX  ✔️
   - Props ✔️
