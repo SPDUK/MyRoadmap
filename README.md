@@ -235,8 +235,8 @@ Nothing - Not yet a priority
 ### Intermediate Back-End 
 
 - **Additional Languages**
-  - [Elixir🚧](https://elixir-lang.org/)
-    - [Phoenix](https://phoenixframework.org/)
+  - [Ruby](https://www.ruby-lang.org/en/)
+    - [Ruby on Rails](https://rubyonrails.org/)
     -  ...
     
     
