@@ -235,8 +235,14 @@ Nothing - Not yet a priority
 ### Intermediate Back-End 
 
 - **Additional Languages**
-  - [Ruby](https://www.ruby-lang.org/en/)
-    - [Ruby on Rails](https://rubyonrails.org/)
-    -  ...
+  - [Ruby  🚧](https://www.ruby-lang.org/en/)
+    - [Array Methods ✔️](https://learnxinyminutes.com/docs/ruby/)
+    - [Hash Methods 🚧](http://devdocs.io/ruby~2.5/)
+    - [Loops]()
+    - [Date & Time]()
+    - [Ranges]()
+    - [Iterators]()
+    - [File I/O]()
+    - [**Ruby on Rails**](https://rubyonrails.org/)
     
     
