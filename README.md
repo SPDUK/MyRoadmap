@@ -1,6 +1,7 @@
 # MyRoadmap
 
 Not finished yet. Feel free to clone/fork it and do whatever you want to it.
+Currently learning: Ruby, PostgreSQL, OOP
 
 ✔️ - I'm comfortable with this.
 
@@ -238,11 +239,12 @@ Nothing - Not yet a priority
   - [Ruby  🚧](https://www.ruby-lang.org/en/)
     - [Array Methods ✔️](https://learnxinyminutes.com/docs/ruby/)
     - [Hash Methods 🚧](http://devdocs.io/ruby~2.5/)
-    - [Loops]()
+    - [Loops 🚧]()
     - [Date & Time]()
-    - [Ranges]()
-    - [Iterators]()
+    - [Ranges 🚧]()
+    - [Iterators 🚧]()
     - [File I/O]()
+    - [Blocks]()
     - [**Ruby on Rails**](https://rubyonrails.org/)
     
     
