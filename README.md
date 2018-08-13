@@ -246,7 +246,7 @@ Nothing - Not yet a priority
     - [Ranges ✔️](https://ruby-doc.org/core-2.2.0/Range.html)
     - [Iterators ✔️](https://www.youtube.com/watch?v=4fIgdKXc8VQ)
     - [File I/O]()
-    - [Blocks]()
+    - [Blocks](https://youtu.be/O3fU3gLSvsI)
     - [**Ruby on Rails**](https://rubyonrails.org/)
       - [MVC Pattern](https://medium.com/the-renaissance-developer/ruby-on-rails-http-mvc-and-routes-f02215a46a84)
       - [Models](https://guides.rubyonrails.org/active_record_basics.html)
@@ -259,8 +259,8 @@ Nothing - Not yet a priority
       - Migrations
       - ActionCable
       - File attatchments
-      - Testing
-      - [ActiveRecord]
+      - [Testing](http://railscasts.com/episodes?utf8=%E2%9C%93&search=testing)
+      - [ActiveRecord](https://guides.rubyonrails.org/active_record_basics.html)
         - [Associations](https://guides.rubyonrails.org/association_basics.html)
       - Devise
         - Authentication
