@@ -84,7 +84,7 @@ Nothing - Not yet a priority
   - [Browser Compatibility ✔️](https://caniuse.com/)
   - **Animations**
     - [Keyframes ✔️](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
-    - [Lottie](http://airbnb.io/lottie/)
+    - [Lottie](https://airbnb.io/lottie/)
     - [Anime.js ✔️](http://animejs.com/)
     - [Greensock](https://greensock.com/)
   - **Sass** 
@@ -239,29 +239,30 @@ Nothing - Not yet a priority
 
 - **Additional Languages**
   - [Ruby  🚧](https://www.ruby-lang.org/en/)
+    - [String Methods ✔️](https://devdocs.io/ruby~2.5/string)
     - [Array Methods ✔️](https://learnxinyminutes.com/docs/ruby/)
-    - [Hash Methods 🚧](http://devdocs.io/ruby~2.5/)
-    - [Loops ✔️]()
+    - [Hash Methods 🚧](https://devdocs.io/ruby~2.5-hash/)
+    - [Loops ✔️](http://devdocs.io/ruby~2.5/array#method-i-each)
     - [Date & Time](https://ruby-doc.org/stdlib-2.3.1/libdoc/date/rdoc/DateTime.html)
     - [Ranges ✔️](https://ruby-doc.org/core-2.2.0/Range.html)
     - [Iterators ✔️](https://www.youtube.com/watch?v=4fIgdKXc8VQ)
     - [File I/O]()
     - [Blocks](https://youtu.be/O3fU3gLSvsI)
     - [**Ruby on Rails**](https://rubyonrails.org/)
-      - [MVC Pattern](https://medium.com/the-renaissance-developer/ruby-on-rails-http-mvc-and-routes-f02215a46a84)
-      - [Models](https://guides.rubyonrails.org/active_record_basics.html)
-      - [Views](https://guides.rubyonrails.org/action_view_overview.html)
-      - [Controllers](https://guides.rubyonrails.org/action_controller_overview.html)
-      - [ERB](https://www.stuartellis.name/articles/erb/)
-      - [Debugging](https://github.com/deivid-rodriguez/byebug)
-      - [Generators](https://guides.rubyonrails.org/v5.2.1/generators.html)
-      - [Built In Helpers](https://guides.rubyonrails.org/v5.0/form_helpers.html)
-      - Migrations
+      - [MVC Pattern ✔️](https://medium.com/the-renaissance-developer/ruby-on-rails-http-mvc-and-routes-f02215a46a84)
+      - [Models ✔️️]https://guides.rubyonrails.org/active_record_basics.html)
+      - [Views ✔️](https://guides.rubyonrails.org/action_view_overview.html)
+      - [Controllers ✔️](https://guides.rubyonrails.org/action_controller_overview.html)
+      - [ERB ✔️](https://www.stuartellis.name/articles/erb/)
+      - [Debugging 🚧](https://github.com/deivid-rodriguez/byebug)
+      - [Generators 🚧](https://guides.rubyonrails.org/v5.2.1/generators.html)
+      - [Built In Helpers 🚧](https://guides.rubyonrails.org/v5.0/form_helpers.html)
+      - [Migrations 🚧](https://www.youtube.com/watch?v=BjvamO2KHA0)
       - ActionCable
       - File attatchments
-      - [Testing](http://railscasts.com/episodes?utf8=%E2%9C%93&search=testing)
-      - [ActiveRecord](https://guides.rubyonrails.org/active_record_basics.html)
-        - [Associations](https://guides.rubyonrails.org/association_basics.html)
+      - [Testing 🚧](http://railscasts.com/episodes?utf8=%E2%9C%93&search=testing)
+      - [ActiveRecord 🚧](https://guides.rubyonrails.org/active_record_basics.html)
+        - [Associations 🚧](https://guides.rubyonrails.org/association_basics.html)
       - Devise
         - Authentication
         - Emails
