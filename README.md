@@ -241,12 +241,29 @@ Nothing - Not yet a priority
   - [Ruby  🚧](https://www.ruby-lang.org/en/)
     - [Array Methods ✔️](https://learnxinyminutes.com/docs/ruby/)
     - [Hash Methods 🚧](http://devdocs.io/ruby~2.5/)
-    - [Loops 🚧]()
-    - [Date & Time]()
-    - [Ranges 🚧]()
-    - [Iterators 🚧]()
+    - [Loops ✔️]()
+    - [Date & Time](https://ruby-doc.org/stdlib-2.3.1/libdoc/date/rdoc/DateTime.html)
+    - [Ranges ✔️](https://ruby-doc.org/core-2.2.0/Range.html)
+    - [Iterators ✔️](https://www.youtube.com/watch?v=4fIgdKXc8VQ)
     - [File I/O]()
     - [Blocks]()
     - [**Ruby on Rails**](https://rubyonrails.org/)
-    
+      - [MVC Pattern](https://medium.com/the-renaissance-developer/ruby-on-rails-http-mvc-and-routes-f02215a46a84)
+      - [Models](https://guides.rubyonrails.org/active_record_basics.html)
+      - [Views](https://guides.rubyonrails.org/action_view_overview.html)
+      - [Controllers](https://guides.rubyonrails.org/action_controller_overview.html)
+      - [ERB](https://www.stuartellis.name/articles/erb/)
+      - [Debugging](https://github.com/deivid-rodriguez/byebug)
+      - [Generators](https://guides.rubyonrails.org/v5.2.1/generators.html)
+      - [Built In Helpers](https://guides.rubyonrails.org/v5.0/form_helpers.html)
+      - Migrations
+      - ActionCable
+      - File attatchments
+      - Testing
+      - [ActiveRecord]
+        - [Associations](https://guides.rubyonrails.org/association_basics.html)
+      - Devise
+        - Authentication
+        - Emails
+      
     
