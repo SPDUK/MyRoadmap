@@ -115,20 +115,20 @@ Nothing - Not yet a priority
   - [Closure ✔️](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
   - Higher-Order Functions ✔️
   - [Currying and partials 🚧](https://javascript.info/currying-partials)
-  - Composition 🚧
+  - Composition ✔️
    - Purity and Side effects ✔️
   - Point-free Style
-  - Recursion 🚧
+  - Recursion ✔️
   - [Functors ✔️](https://hackernoon.com/functors-in-javascript-20a647b8f39f)
   - Monads 🚧
   -  [Everything else](https://github.com/hemanth/functional-programming-jargon)
 - **Object Oriented Programming** 
   - [Prototypal Inheritance 💡](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-  - [Classes 💡](https://javascript.info/class)
+  - [Classes ✔️](https://javascript.info/class)
   - Property Flags and Descriptors 💡
-  - Property Getters and Setters 💡
+  - Property Getters and Setters ✔️
   - Function Binding ✔️
-  - Constructors 🚧
+  - Constructors ✔️
 - **React**
   - JSX  ✔️
   - Props ✔️
@@ -146,7 +146,7 @@ Nothing - Not yet a priority
     - [Enzyme](http://airbnb.io/enzyme/)
     - [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
   - **Basic state management**
-    - [MobX 🚧](https://mobx.js.org/)
+    - [MobX ✔️](https://mobx.js.org/)
     - [Redux 💡](https://redux.js.org/introduction)
 - **Extras**
   - [Preact](https://preactjs.com/)
