@@ -273,7 +273,7 @@ Nothing - Not yet a priority
     - Ranges ✔️
     - Pattern Matching ✔️
     - ...
-    - [**Phoenix**](https://rubyonrails.org/)
+    - [**Phoenix**](https://phoenixframework.org/)
       - Models ✔️️
       - Views ✔️
       - Controllers ✔️
@@ -284,3 +284,37 @@ Nothing - Not yet a priority
         - Associations ✔️
       - OTP 🚧
         - ...
+# 
+
+### Algorithms
+
+- **Basics / Data Structures**
+  - Primitives / Arrays / Objects / Maps / Sets ✔️
+  - Big O / Time Complexity 🚧
+  - Stacks ✔️
+  - Queues ✔️
+  - Linked Lists ✔️
+  - Trees
+  - Hash Tables
+  - Binary Trees
+  - Bloom Filters
+  - Tries
+- **Sorting**
+  - Bubble Sort ✔️
+  - Selection Sort  ✔️
+  - Insertion Sort ✔️
+  - Merge sort 🚧
+  - Quick Sort 🚧
+  - Heap Sort
+  - Radix Sort
+- **Searching**
+  - Breadth First Search
+  - Depth First Search
+  - In-Order Traversal
+  - Pre / Post Order Traversal
+- **Graphs & Paths**
+  - Graphs
+  - Matrix 
+  - Adjacency List
+- **Dynamic Programming**
+  - ...
