@@ -100,20 +100,20 @@ Nothing - Not yet a priority
   - [Promises ✔️](https://www.youtube.com/watch?v=2d7s3spWAzo)
   - [Sets ✔️](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
   - [Async/Await ✔️](https://www.youtube.com/watch?v=568g8hxJJp4&feature=youtu.be)
-  - Symbols 🚧
-  - Generators 🚧
-  - Decorators 🚧
-  - Proxies 🚧
+  - Symbols ✔️
+  - Generators ✔️
+  - Decorators ✔️
+  - Proxies ✔️
   - forEach, Filter, Map and Reduce ✔️
   - [Maps](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map) ✔️
 - **Functional Programming**
   - [Ramda 💡](https://ramdajs.com/)
   - [Closure ✔️](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
   - Higher-Order Functions ✔️
-  - [Currying and partials 🚧](https://javascript.info/currying-partials)
+  - [Currying and partials ✔️](https://javascript.info/currying-partials)
   - Composition ✔️
   - Purity and Side effects ✔️
-  - Point-free Style
+  - Point-free Style ✔️
   - Recursion ✔️
   - [Functors ✔️](https://hackernoon.com/functors-in-javascript-20a647b8f39f)
   - Monads 🚧
@@ -142,7 +142,7 @@ Nothing - Not yet a priority
     - [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
   - **Basic state management**
     - [MobX ✔️](https://mobx.js.org/)
-    - [Redux 🚧](https://redux.js.org/introduction)
+    - [Redux ✔️](https://redux.js.org/introduction)
 - **Extras**
   - [Preact](https://preactjs.com/)
   - [Firebase ✔️](https://firebase.google.com/)
@@ -177,14 +177,14 @@ Nothing - Not yet a priority
   - **Web Performance**
     - CDN ✔️
     - Image Optimization ✔️
-    - Webpack Optimizations
-    - Preloading, Caching
-    - Manging Dependencies
+    - Webpack Optimizations ✔️
+    - Preloading, Caching ✔️
+    - Manging Dependencies ✔️
     - Babel Plugins
-    - Web Workers and Multithreading
+    - Web Workers and Multithreading ✔️
     - [Cloud functions](https://cloud.google.com/functions/)
-    - LazyLoading, Parallel Loading 🚧
-    - [HTTP/2](https://mozilla.github.io/meao/2017/06/26/http2/)
+    - LazyLoading, Parallel Loading ✔️
+    - [HTTP/2 ✔️](https://mozilla.github.io/meao/2017/06/26/http2/)
     - Email Templating
 
 #
@@ -204,20 +204,29 @@ Nothing - Not yet a priority
     - [Transactions ✔️](https://docs.mongodb.com/master/core/transactions/)
 - **SQL**
   - [PostgreSQL ✔️](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
-  - [MySQL](https://www.mysql.com/)
   - [Sequelize ORM ✔️](http://docs.sequelizejs.com/)
   - **[SQL Commands](https://www.codecademy.com/articles/sql-commands)**
     - CRUD ✔️
     - [Aggregation ✔️](https://www.w3schools.com/sql/sql_groupby.asp)
-    - Transactions 🚧
+    - Transactions ✔️
     - Migrations ✔️
-    - Indicies 🚧
+    - Indicies ✔️
+    - Filters ✔️
+- **GraphQL**
+  - Queries ✔️
+  - Mutations ✔️
+  - Prisma ✔️
+  - Apollo (React) ✔️
+  - GraphQL-Yoga (Node.js) ✔️
+  - Absinthe (Elixir) 
 - **Authentication**
   - [Passport.js ✔️](http://www.passportjs.org/)
   - [JSON Web Tokens ✔️](https://www.npmjs.com/package/jsonwebtoken)
   - [OAuth 2.0 ✔️](https://oauth.net/2/)
 - **Deployment**
   - [Docker 🚧](https://www.docker.com/)
+  - [Bash 🚧](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+  - Linux in general 🚧
     - ...
   - 
   - Heroku ✔️
@@ -225,9 +234,9 @@ Nothing - Not yet a priority
     - PM2 ✔️
     - Nginx ✔️
     - Domains, DNS and CNAMEs ✔️
-    - Log Files
-    - Fail2ban
-    - [General security 🚧](https://www.digitalocean.com/community/questions/best-practices-for-hardening-new-sever-in-2017)
+    - Log Files ✔️
+    - Fail2ban ✔️
+    - [General security ✔️](https://www.digitalocean.com/community/questions/best-practices-for-hardening-new-sever-in-2017)
 
 #
 
@@ -239,10 +248,10 @@ Nothing - Not yet a priority
     - [Array Methods ✔️](https://learnxinyminutes.com/docs/ruby/)
     - [Hash Methods ✔️ ](https://devdocs.io/ruby~2.5-hash/)
     - [Loops ✔️](http://devdocs.io/ruby~2.5/array#method-i-each)
-    - [Date & Time](https://ruby-doc.org/stdlib-2.3.1/libdoc/date/rdoc/DateTime.html)
+    - [Date & Time ✔️](https://ruby-doc.org/stdlib-2.3.1/libdoc/date/rdoc/DateTime.html)
     - [Ranges ✔️](https://ruby-doc.org/core-2.2.0/Range.html)
     - [Iterators ✔️](https://www.youtube.com/watch?v=4fIgdKXc8VQ)
-    - [File I/O]()
+    - File I/O
     - [Blocks ✔️](https://youtu.be/O3fU3gLSvsI)
     - [**Ruby on Rails**](https://rubyonrails.org/)
       - [MVC Pattern ✔️](https://medium.com/the-renaissance-developer/ruby-on-rails-http-mvc-and-routes-f02215a46a84)
@@ -268,29 +277,42 @@ Nothing - Not yet a priority
     - Array Methods ✔️
     - Map Methods ✔️ 
     - Enum Methods ✔️
+    - List Methods ✔️
     - Loops / List comprehensions ✔️
     - Structs ✔️
     - Ranges ✔️
     - Pattern Matching ✔️
-    - ...
+    - Guards ✔️
     - [**Phoenix**](https://phoenixframework.org/)
       - Models ✔️️
       - Views ✔️
       - Controllers ✔️
       - Migrations ✔️
-      - Sockets 🚧
+      - Sockets ✔️
+      - Plugs ✔️
       - ExUnit / Testing ✔️
-      - [Ecto](https://hexdocs.pm/ecto/Ecto.html)
+      - [Ecto ✔️](https://hexdocs.pm/ecto/Ecto.html)
         - Associations ✔️
-      - OTP 🚧
-        - ...
+        - Ecto.Multi ✔️
+        - Composing Queries ✔️
+    - OTP 🚧
+      - Message Passing ✔️
+      - Processes ✔️
+      - Genserver ✔️
+      - Monitors ✔️
+      - Tasks ✔️
+      - Supervisors ✔️
+      - Agents ✔️
+      - ETS tables, caching etc. ✔️
+      - Distributed systems 🚧
+      - Clustering, Networking etc. 🚧
 # 
 
 ### Algorithms
 
 - **Basics / Data Structures**
   - Primitives / Arrays / Objects / Maps / Sets ✔️
-  - Big O / Time Complexity 🚧
+  - Big O / Time Complexity ✔️
   - Stacks ✔️
   - Queues ✔️
   - Linked Lists ✔️
@@ -303,8 +325,8 @@ Nothing - Not yet a priority
   - Bubble Sort ✔️
   - Selection Sort  ✔️
   - Insertion Sort ✔️
-  - Merge sort 🚧
-  - Quick Sort 🚧
+  - Merge sort ✔️
+  - Quick Sort ✔️
   - Heap Sort
   - Radix Sort
 - **Searching**
