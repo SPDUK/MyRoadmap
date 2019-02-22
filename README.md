@@ -2,7 +2,7 @@
 
 Not finished yet. Feel free to clone/fork it and do whatever you want to it.
 
-Currently learning: Ruby, PostgreSQL, OOP
+Currently learning: More React, GraphQL, More Node.js, Algorithms and related stuff.
 
 ✔️ - I'm comfortable with this.
 
