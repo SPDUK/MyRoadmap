@@ -138,8 +138,8 @@ Nothing - Not yet a priority
   - SyntheticEvent
   - File structure 🚧
   - **Testing**
-    - [Jest 🚧](https://jestjs.io/)
-    - [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
+    - [Jest ✔️](https://jestjs.io/)
+    - [PropTypes ✔️](https://reactjs.org/docs/typechecking-with-proptypes.html)
   - **Basic state management**
     - [MobX ✔️](https://mobx.js.org/)
     - [Redux ✔️](https://redux.js.org/introduction)
