@@ -53,7 +53,6 @@ Nothing - Not yet a priority
   - [Slice and Splice ✔️](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
   - [Object.keys and Object.values ✔️](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
 - **Extras**
-
   - [Git and Github ✔️](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
   - [HTTP/HTTPS and APIs ✔️](https://youtu.be/PUPDGbnpSjw)
   - [SSH ✔️](https://www.youtube.com/watch?v=hQWRp-FdTpc)
@@ -133,10 +132,10 @@ Nothing - Not yet a priority
   - Component Lifecycle Methods ✔️
   - React Router ✔️
   - functional setState ✔️
-  - Container and Presentational Components
+  - Container and Presentational Components ✔️
   - Functional and Class Components ✔️
-  - SyntheticEvent
-  - File structure 🚧
+  - SyntheticEvent ✔️
+  - File structure ✔️
   - **Testing**
     - [Jest ✔️](https://jestjs.io/)
     - [PropTypes ✔️](https://reactjs.org/docs/typechecking-with-proptypes.html)
@@ -160,10 +159,10 @@ Nothing - Not yet a priority
     - Providers
     - [Advanced React Patterns](https://egghead.io/courses/advanced-react-component-patterns)
     - **Advanced state management**
-      - State Architecture Patterns 💡
-      - Redux Thunk 💡
-      - Redux Saga 💡
-      - Flux 💡
+      - State Architecture Patterns ✔️
+      - Redux Thunk ✔️
+      - Redux Saga ✔️
+      - Flux ✔️
 - **Mobile Development**
   - **React Native**
     - ...
@@ -180,7 +179,7 @@ Nothing - Not yet a priority
     - Webpack Optimizations ✔️
     - Preloading, Caching ✔️
     - Manging Dependencies ✔️
-    - Babel Plugins
+    - Babel Plugins ✔️
     - Web Workers and Multithreading ✔️
     - [Cloud functions](https://cloud.google.com/functions/)
     - LazyLoading, Parallel Loading ✔️
@@ -193,8 +192,8 @@ Nothing - Not yet a priority
 
 - **Node.js**  |  [Example App](https://startpage-spduk.herokuapp.com/)
   - [Express ✔️](https://expressjs.com/)
-  - [Socket.io](https://socket.io/)
-  - Streams
+  - WebSockets ✔️
+  - Streams ✔️
 - **MongoDB**
   - Mongoose ✔️
   - Schema Design ✔️
@@ -224,7 +223,7 @@ Nothing - Not yet a priority
   - [JSON Web Tokens ✔️](https://www.npmjs.com/package/jsonwebtoken)
   - [OAuth 2.0 ✔️](https://oauth.net/2/)
 - **Deployment**
-  - [Docker 🚧](https://www.docker.com/)
+  - [Docker ✔️](https://www.docker.com/)
   - [Bash 🚧](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
   - Linux in general 🚧
     - ...
@@ -263,15 +262,14 @@ Nothing - Not yet a priority
       - [Generators ✔️](https://guides.rubyonrails.org/v5.2.1/generators.html)
       - [Built In Helpers ✔️](https://guides.rubyonrails.org/v5.0/form_helpers.html)
       - [Migrations ✔️](https://www.youtube.com/watch?v=BjvamO2KHA0)
-      - ActionCable
-      - File attatchments
+      - ActionCable ✔️
+      - File attatchments ✔️
       - [Testing 🚧](http://railscasts.com/episodes?utf8=%E2%9C%93&search=testing)
       - [ActiveRecord ✔️](https://guides.rubyonrails.org/active_record_basics.html)
         - [Associations ✔️](https://guides.rubyonrails.org/association_basics.html)
       - Devise
-        - Authentication
-        - Emails
-
+        - Authentication ✔️
+        - Emails ✔️
   - [Elixir 🚧](https://elixir-lang.org/) | [Example App](https://poewishlist.xyz/)
     - String Methods ✔️
     - Array Methods ✔️
@@ -306,7 +304,7 @@ Nothing - Not yet a priority
       - ETS tables, caching etc. ✔️
       - Distributed systems 🚧
       - Clustering, Networking etc. 🚧
-# 
+        # 
 
 ### Algorithms
 
@@ -317,8 +315,8 @@ Nothing - Not yet a priority
   - Queues ✔️
   - Linked Lists ✔️
   - Trees
-  - Hash Tables
-  - Binary Trees
+  - Hash Tables ✔️
+  - Binary Trees ✔️
   - Bloom Filters
   - Tries
 - **Sorting**
@@ -330,7 +328,7 @@ Nothing - Not yet a priority
   - Heap Sort
   - Radix Sort
 - **Searching**
-  - Breadth First Search
+  - Breadth First Search ✔️
   - Depth First Search
   - In-Order Traversal
   - Pre / Post Order Traversal
