@@ -74,7 +74,7 @@ Nothing - Not yet a priority
     - [Chart.js](https://www.chartjs.org/)
     - [Chartist ✔️](https://gionkunz.github.io/chartist-js/)
 - **CSS** | [Example App](https://spduk.github.io/dgd/#/)
-  - [SVG 🚧](https://svgontheweb.com/)
+  - [SVG](https://svgontheweb.com/)
   - [D3](https://d3js.org/)
   - [Browser Compatibility ✔️](https://caniuse.com/)
   - **Animations**
@@ -106,7 +106,7 @@ Nothing - Not yet a priority
   - forEach, Filter, Map and Reduce ✔️
   - [Maps](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map) ✔️
 - **Functional Programming**
-  - [Ramda 💡](https://ramdajs.com/)
+  - [Ramda 🚧](https://ramdajs.com/)
   - [Closure ✔️](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
   - Higher-Order Functions ✔️
   - [Currying and partials ✔️](https://javascript.info/currying-partials)
@@ -116,11 +116,10 @@ Nothing - Not yet a priority
   - Recursion ✔️
   - [Functors ✔️](https://hackernoon.com/functors-in-javascript-20a647b8f39f)
   - Monads 🚧
-  - [Everything else](https://github.com/hemanth/functional-programming-jargon)
+  - [Everything else 🚧](https://github.com/hemanth/functional-programming-jargon)
 - **Object Oriented Programming**
   - [Prototypal Inheritance ✔️](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
   - [Classes ✔️](https://javascript.info/class)
-  - Property Flags and Descriptors 💡
   - Property Getters and Setters ✔️
   - Function Binding ✔️
   - Constructors ✔️
@@ -142,11 +141,29 @@ Nothing - Not yet a priority
   - **Basic state management**
     - [MobX ✔️](https://mobx.js.org/)
     - [Redux ✔️](https://redux.js.org/introduction)
+- **Vue** 🚧
+  - Templates ✔️
+  - Props ✔️
+  - Component Basics
+    - Data ✔️
+    - Computed ✔️
+    - Watch 🚧
+    - Methods ✔️
+  - [Directives 🚧](https://flaviocopes.com/vue-directives/)
+  - Class / Style bindings ✔️
+  - Slots 🚧
+  - Component Lifecycle Methods 🚧
+  - Vue Router 🚧
+  - Event Handling 🚧
+  - Dynamic Components 🚧
+  - VueX 🚧
+  - [Transitions](https://vuejs.org/v2/guide/transitions.html)
+  - [Render functions & JSX](https://vuejs.org/v2/guide/render-function.html)
+  - [Mixins](https://vuejs.org/v2/guide/mixins.html)
+  - Server Side Rendering
 - **Extras**
   - [Preact](https://preactjs.com/)
   - [Firebase ✔️](https://firebase.google.com/)
-
-#
 
 ### Advanced Front-End
 
@@ -155,8 +172,8 @@ Nothing - Not yet a priority
   - Rxjs
   - **Advanced React**
     - Controlled components and Control Props
-    - Component State Reducers
-    - Providers
+    - Component State Reducers ✔️
+    - Providers ✔️
     - [Advanced React Patterns](https://egghead.io/courses/advanced-react-component-patterns)
     - **Advanced state management**
       - State Architecture Patterns ✔️
@@ -165,8 +182,6 @@ Nothing - Not yet a priority
       - Flux ✔️
 - **Mobile Development**
   - **React Native**
-    - ...
-  - **Flutter**
     - ...
 - **Electron**
   - ...
@@ -190,7 +205,7 @@ Nothing - Not yet a priority
 
 ### Back-End Basics
 
-- **Node.js**  |  [Example App](https://startpage-spduk.herokuapp.com/)
+- **Node.js** | [Example App](https://github.com/spduk/startpage)
   - [Express ✔️](https://expressjs.com/)
   - WebSockets ✔️
   - Streams ✔️
@@ -217,17 +232,17 @@ Nothing - Not yet a priority
   - Prisma ✔️
   - Apollo (React) ✔️
   - GraphQL-Yoga (Node.js) ✔️
-  - Absinthe (Elixir) 
+  - Absinthe (Elixir)
 - **Authentication**
   - [Passport.js ✔️](http://www.passportjs.org/)
   - [JSON Web Tokens ✔️](https://www.npmjs.com/package/jsonwebtoken)
   - [OAuth 2.0 ✔️](https://oauth.net/2/)
 - **Deployment**
   - [Docker ✔️](https://www.docker.com/)
-  - [Bash 🚧](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+  - [Bash 🚧](<https://en.wikipedia.org/wiki/Bash_(Unix_shell)>)
   - Linux in general 🚧
+    - Cron ✔️
     - ...
-  - 
   - Heroku ✔️
   - **VPS**
     - PM2 ✔️
@@ -241,70 +256,97 @@ Nothing - Not yet a priority
 
 ### Intermediate Back-End
 
-- **Additional Languages**
-  - [Ruby 🚧](https://www.ruby-lang.org/en/)  |  [Example App](https://spduk-crypto.herokuapp.com/)
-    - [String Methods ✔️](https://devdocs.io/ruby~2.5/string)
-    - [Array Methods ✔️](https://learnxinyminutes.com/docs/ruby/)
-    - [Hash Methods ✔️ ](https://devdocs.io/ruby~2.5-hash/)
-    - [Loops ✔️](http://devdocs.io/ruby~2.5/array#method-i-each)
-    - [Date & Time ✔️](https://ruby-doc.org/stdlib-2.3.1/libdoc/date/rdoc/DateTime.html)
-    - [Ranges ✔️](https://ruby-doc.org/core-2.2.0/Range.html)
-    - [Iterators ✔️](https://www.youtube.com/watch?v=4fIgdKXc8VQ)
-    - File I/O
-    - [Blocks ✔️](https://youtu.be/O3fU3gLSvsI)
-    - [**Ruby on Rails**](https://rubyonrails.org/)
-      - [MVC Pattern ✔️](https://medium.com/the-renaissance-developer/ruby-on-rails-http-mvc-and-routes-f02215a46a84)
-      - [Models ✔️️]https://guides.rubyonrails.org/active_record_basics.html)
-      - [Views ✔️](https://guides.rubyonrails.org/action_view_overview.html)
-      - [Controllers ✔️](https://guides.rubyonrails.org/action_controller_overview.html)
-      - [ERB ✔️](https://www.stuartellis.name/articles/erb/)
-      - [Debugging ✔️](https://github.com/deivid-rodriguez/byebug)
-      - [Generators ✔️](https://guides.rubyonrails.org/v5.2.1/generators.html)
-      - [Built In Helpers ✔️](https://guides.rubyonrails.org/v5.0/form_helpers.html)
-      - [Migrations ✔️](https://www.youtube.com/watch?v=BjvamO2KHA0)
-      - ActionCable ✔️
-      - File attatchments ✔️
-      - [Testing 🚧](http://railscasts.com/episodes?utf8=%E2%9C%93&search=testing)
-      - [ActiveRecord ✔️](https://guides.rubyonrails.org/active_record_basics.html)
-        - [Associations ✔️](https://guides.rubyonrails.org/association_basics.html)
-      - Devise
-        - Authentication ✔️
-        - Emails ✔️
-  - [Elixir 🚧](https://elixir-lang.org/) | [Example App](https://poewishlist.xyz/)
-    - String Methods ✔️
-    - Array Methods ✔️
-    - Map Methods ✔️ 
-    - Enum Methods ✔️
-    - List Methods ✔️
-    - Loops / List comprehensions ✔️
-    - Structs ✔️
-    - Ranges ✔️
-    - Pattern Matching ✔️
-    - Guards ✔️
-    - [**Phoenix**](https://phoenixframework.org/)
-      - Models ✔️️
-      - Views ✔️
-      - Controllers ✔️
-      - Migrations ✔️
-      - Sockets ✔️
-      - Plugs ✔️
-      - ExUnit / Testing ✔️
-      - [Ecto ✔️](https://hexdocs.pm/ecto/Ecto.html)
-        - Associations ✔️
-        - Ecto.Multi ✔️
-        - Composing Queries ✔️
-    - OTP 🚧
-      - Message Passing ✔️
-      - Processes ✔️
-      - Genserver ✔️
-      - Monitors ✔️
-      - Tasks ✔️
-      - Supervisors ✔️
-      - Agents ✔️
-      - ETS tables, caching etc. ✔️
-      - Distributed systems 🚧
-      - Clustering, Networking etc. 🚧
-        # 
+- [**Ruby**](https://www.ruby-lang.org/en/) | [Example App](https://github.com/SPDUK/portfolio)
+
+  - [String Methods ✔️](https://devdocs.io/ruby~2.5/string)
+  - [Array Methods ✔️](https://learnxinyminutes.com/docs/ruby/)
+  - [Hash Methods ✔️ ](https://devdocs.io/ruby~2.5-hash/)
+  - [Loops ✔️](http://devdocs.io/ruby~2.5/array#method-i-each)
+  - [Date & Time ✔️](https://ruby-doc.org/stdlib-2.3.1/libdoc/date/rdoc/DateTime.html)
+  - [Ranges ✔️](https://ruby-doc.org/core-2.2.0/Range.html)
+  - [Iterators ✔️](https://www.youtube.com/watch?v=4fIgdKXc8VQ)
+  - File I/O ✔️
+  - [Blocks ✔️](https://youtu.be/O3fU3gLSvsI)
+  - [**Ruby on Rails**](https://rubyonrails.org/)
+    - [MVC Pattern ✔️](https://medium.com/the-renaissance-developer/ruby-on-rails-http-mvc-and-routes-f02215a46a84)
+    - [Models ✔️️](]https://guides.rubyonrails.org/active_record_basics.html)
+    - [Views ✔️](https://guides.rubyonrails.org/action_view_overview.html)
+    - [Controllers ✔️](https://guides.rubyonrails.org/action_controller_overview.html)
+    - [ERB ✔️](https://www.stuartellis.name/articles/erb/)
+    - [Debugging ✔️](https://github.com/deivid-rodriguez/byebug)
+    - [Generators ✔️](https://guides.rubyonrails.org/v5.2.1/generators.html)
+    - [Built In Helpers ✔️](https://guides.rubyonrails.org/v5.0/form_helpers.html)
+    - [Migrations ✔️](https://www.youtube.com/watch?v=BjvamO2KHA0)
+    - ActionCable ✔️
+    - File attatchments ✔️
+    - [Testing 🚧](http://railscasts.com/episodes?utf8=%E2%9C%93&search=testing)
+    - [ActiveRecord ✔️](https://guides.rubyonrails.org/active_record_basics.html)
+      - [Associations ✔️](https://guides.rubyonrails.org/association_basics.html)
+    - Devise
+      - Authentication ✔️
+      - Emails ✔️
+
+- [**Elixir** 🚧](https://elixir-lang.org/) | [Example App](https://poewishlist.xyz/)
+
+  - String Methods ✔️
+
+  - Array Methods ✔️
+
+  - Map Methods ✔️
+
+  - Enum Methods ✔️
+
+  - List Methods ✔️
+
+  - Loops / List comprehensions ✔️
+
+  - Structs ✔️
+
+  - Ranges ✔️
+
+  - Pattern Matching ✔️
+
+    - Nested pattern matching 🚧
+
+  - Guards ✔️
+
+  - [**Phoenix**](https://phoenixframework.org/)
+
+    - Models ✔️️
+    - Views ✔️
+    - Controllers ✔️
+    - Migrations ✔️
+    - Sockets ✔️
+    - Plugs ✔️
+    - ExUnit / Testing ✔️
+    - [Ecto ✔️](https://hexdocs.pm/ecto/Ecto.html)
+      - Associations ✔️
+      - Ecto.Multi ✔️
+      - Composing Queries ✔️
+
+  - OTP 
+
+    - Message Passing ✔️
+
+    - Processes ✔️
+
+    - Genserver ✔️
+
+    - Monitors ✔️
+
+    - Tasks ✔️
+
+    - Supervisors ✔️
+
+    - Agents ✔️
+
+    - ETS tables, caching etc. ✔️
+
+    - Distributed systems 
+
+    - Clustering, Networking etc. 
+
+      #
 
 ### Algorithms
 
@@ -321,7 +363,7 @@ Nothing - Not yet a priority
   - Tries
 - **Sorting**
   - Bubble Sort ✔️
-  - Selection Sort  ✔️
+  - Selection Sort ✔️
   - Insertion Sort ✔️
   - Merge sort ✔️
   - Quick Sort ✔️
@@ -334,7 +376,7 @@ Nothing - Not yet a priority
   - Pre / Post Order Traversal
 - **Graphs & Paths**
   - Graphs
-  - Matrix 
+  - Matrix
   - Adjacency List
 - **Dynamic Programming**
   - ...
