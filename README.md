@@ -151,6 +151,7 @@ Nothing - Not yet a priority
     - Methods ✔️
   - [Directives 🚧](https://flaviocopes.com/vue-directives/)
   - Class / Style bindings ✔️
+  - $refs ✔️
   - Slots 🚧
   - Component Lifecycle Methods 🚧
   - Vue Router 🚧
