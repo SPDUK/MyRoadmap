@@ -149,21 +149,20 @@ Nothing - Not yet a priority
     - Computed ✔️
     - Watch 🚧
     - Methods ✔️
-  - [Directives 🚧](https://flaviocopes.com/vue-directives/)
+  - [Directives ✔️](https://flaviocopes.com/vue-directives/)
   - Class / Style bindings ✔️
   - $refs ✔️
-  - Slots 🚧
-  - Component Lifecycle Methods 🚧
-  - Vue Router 🚧
+  - Slots ✔️
+  - Component Lifecycle Methods ✔️
+  - Vue Router ✔️
   - Event Handling 🚧
-  - Dynamic Components 🚧
+  - Dynamic Components ✔️
   - VueX 🚧
   - [Transitions](https://vuejs.org/v2/guide/transitions.html)
   - [Render functions & JSX](https://vuejs.org/v2/guide/render-function.html)
   - [Mixins](https://vuejs.org/v2/guide/mixins.html)
   - Server Side Rendering
 - **Extras**
-  - [Preact](https://preactjs.com/)
   - [Firebase ✔️](https://firebase.google.com/)
 
 ### Advanced Front-End
