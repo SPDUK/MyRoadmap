@@ -155,7 +155,7 @@ Nothing - Not yet a priority
   - Slots ✔️
   - Component Lifecycle Methods ✔️
   - Vue Router ✔️
-  - Event Handling 🚧
+  - Event Handling ✔️
   - Dynamic Components ✔️
   - VueX 🚧
   - [Transitions](https://vuejs.org/v2/guide/transitions.html)
