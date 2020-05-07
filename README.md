@@ -130,7 +130,8 @@ Nothing - Not yet a priority
   - Virtual DOM ✔️
   - Component Lifecycle Methods ✔️
   - React Router ✔️
-  - functional setState ✔️
+  - Functional setState ✔️
+  - Hooks ✔️
   - Container and Presentational Components ✔️
   - Functional and Class Components ✔️
   - SyntheticEvent ✔️
@@ -151,13 +152,13 @@ Nothing - Not yet a priority
     - Methods ✔️
   - [Directives ✔️](https://flaviocopes.com/vue-directives/)
   - Class / Style bindings ✔️
-  - $refs ✔️
+  - \$refs ✔️
   - Slots ✔️
   - Component Lifecycle Methods ✔️
   - Vue Router ✔️
   - Event Handling ✔️
   - Dynamic Components ✔️
-  - VueX 🚧
+  - VueX ✔️
   - [Transitions](https://vuejs.org/v2/guide/transitions.html)
   - [Render functions & JSX](https://vuejs.org/v2/guide/render-function.html)
   - [Mixins](https://vuejs.org/v2/guide/mixins.html)
@@ -289,64 +290,45 @@ Nothing - Not yet a priority
 - [**Elixir** 🚧](https://elixir-lang.org/) | [Example App](https://poewishlist.xyz/)
 
   - String Methods ✔️
-
   - Array Methods ✔️
-
   - Map Methods ✔️
-
   - Enum Methods ✔️
-
   - List Methods ✔️
-
   - Loops / List comprehensions ✔️
-
   - Structs ✔️
-
   - Ranges ✔️
-
   - Pattern Matching ✔️
-
     - Nested pattern matching 🚧
-
   - Guards ✔️
 
-  - [**Phoenix**](https://phoenixframework.org/)
+- [**Phoenix**](https://phoenixframework.org/)
 
-    - Models ✔️️
-    - Views ✔️
-    - Controllers ✔️
-    - Migrations ✔️
-    - Sockets ✔️
-    - Plugs ✔️
-    - ExUnit / Testing ✔️
-    - [Ecto ✔️](https://hexdocs.pm/ecto/Ecto.html)
-      - Associations ✔️
-      - Ecto.Multi ✔️
-      - Composing Queries ✔️
+  - Models ✔️️
+  - Views ✔️
+  - Controllers ✔️
+  - Migrations ✔️
+  - Sockets ✔️
+  - Plugs ✔️
+  - ExUnit / Testing ✔️
+  - [Ecto ✔️](https://hexdocs.pm/ecto/Ecto.html)
+  - Associations ✔️
+  - Ecto.Multi ✔️
+  - Composing Queries ✔️
 
-  - OTP 
+- OTP
 
-    - Message Passing ✔️
+  - Message Passing ✔️
+  - Processes ✔️
+  - Genserver ✔️
+  - Monitors ✔️
+  - Tasks ✔️
+  - Supervisors ✔️
+  - Agents ✔️
+  - ETS tables, caching etc. ✔️
+  - Distributed systems
+  - Clustering, Networking etc.
 
-    - Processes ✔️
-
-    - Genserver ✔️
-
-    - Monitors ✔️
-
-    - Tasks ✔️
-
-    - Supervisors ✔️
-
-    - Agents ✔️
-
-    - ETS tables, caching etc. ✔️
-
-    - Distributed systems 
-
-    - Clustering, Networking etc. 
-
-      #
+  #
 
 ### Algorithms
 
