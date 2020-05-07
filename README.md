@@ -315,7 +315,7 @@ Nothing - Not yet a priority
   - Ecto.Multi ✔️
   - Composing Queries ✔️
 
-- OTP
+- [**OTP**](https://erlang.org/doc/)
 
   - Message Passing ✔️
   - Processes ✔️
